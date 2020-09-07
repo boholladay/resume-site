@@ -24,8 +24,7 @@ export const aboutData = {
     'I am a freelance graphic designer. Most of my clientele are researchers looking for a graphic to represent the findings of a paper they are publishing, but I have also done logos and other work.',
   paragraphThree:
     'I have an extensive work background in biological research. I most recently was the lab systems manager for the Appled Chemical Ecology Technology program at Cornell University.',
-  resume:
-    'https://docs.google.com/document/d/1NRYlgFPTPQ0yjK9Gd5byC7pydY5vyP9HI-s7dBnwFuk/edit?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1_7fN5eylpRFUtdaRp_mT343W6MUci0Tn/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
