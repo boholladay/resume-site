@@ -86,7 +86,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'www.linkedin.com/in/bo-holladay',
+      url: 'https://linkedin.com/in/bo-holladay',
     },
     {
       id: nanoid(),
